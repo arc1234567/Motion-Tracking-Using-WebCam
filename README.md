@@ -1,0 +1,2 @@
+# Motion-Tracking-Using-WebCam
+Here we can detect the motion of our body using Computer Vision. I used the inbuilt webcam to catch the motion of by body and using the help of Open cv and a basic idea of contours, thresholding, i have made this small project which can detect your motion very efficiently. To diagnose it, we used red color. You can run the code on your notebook and can see the result . 
